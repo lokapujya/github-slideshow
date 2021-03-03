@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to Jamie's slide!"
 ---
 First Header | Second Header
 ------------ | -------------
